@@ -1,0 +1,10 @@
+https://api.covid19india.org/
+
+Explore below json raw data
+https://api.covid19india.org/v4/min/timeseries.min.json
+https://api.covid19india.org/v4/min/data-all.min.json
+
+Use below readymade csv instead
+Daily statewise data
+Aggregated StateWise vaccine data
+Aggregated StateWise test data (only refer total tests)

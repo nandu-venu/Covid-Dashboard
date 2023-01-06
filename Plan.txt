@@ -1,0 +1,34 @@
+
+
+Query the data datewise >> find the pattern and load the data in an SQL. Use the below link
+
+https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+
+Automate the query to collect data up until today's data
+
+Once we have the SQL, clean the data
+
+Load clean data to df
+
+Metrics
+	>> Death/million population
+	>> CFR = Deaths/(recovered+deaths)
+	>> Test rate = Test/day
+	>> Vaccination Rates = Vaccines/100 people
+	>> TPR = Cases/Tests
+	>> Weekly averages of cases, recoveries, deaths, vaccinations
+	>> Weekly growth rate
+	>> Peak indicator = If the weekly average higher than last week but less than preceding week >> Extract all such weeks
+	>> Trough indicator = Opposite of the above
+	>> Trough to peak
+
+Basic visualization
+	>> Deaths
+	>> Confirmed cases
+	>> Vaccination
+	>> TPR
+	>> Vaccination rates
+	>> Test rate
+	>> CFR
+
+ML models/predictive modelling
